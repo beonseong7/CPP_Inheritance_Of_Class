@@ -1,0 +1,1 @@
+# CPP_Inheritance_Of_Class
